@@ -1,4 +1,58 @@
 <?xml version="1.0" enconding="UTF-8">
-<tree>
+<Tree>
 
-</tree>
+	<AdjacencyNode ID: "12">
+		<LeftConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</LeftConnections>
+		<RightConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</RightConnections>
+		<AboveConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</AboveConnections>
+		<BottomConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</BottomConnections>
+	</AdjacencyNode
+
+	<AdjacencyNode ID: "12">
+		<LeftConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</LeftConnections>
+		<RightConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</RightConnections>
+		<AboveConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</AboveConnections>
+		<BottomConnections>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+			<Node ID:"12" Weight:"50"/>
+		</BottomConnections>
+	</AdjacencyNode>
+	
+</Tree>
